@@ -1,0 +1,7 @@
+- URL Dataset
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=CAR+DETAILS+FROM+CAR+DEKHO.csv
+
+-URL Deployment Hugging Face
+
+https://huggingface.co/spaces/Febrian/Selling-Price-Car-Prediction
